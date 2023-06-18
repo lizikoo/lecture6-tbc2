@@ -1,0 +1,175 @@
+header{
+	padding-top: 21px;
+	padding-left: 140px;
+	margin-bottom: 42px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+}
+
+nav{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+	margin-right: 35px;
+	vertical-align: middle;
+}
+a{
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 13px;
+	/* identical to box height */
+	color: #000000;
+
+}
+.a1{
+	margin-right: 29px;
+}
+.logo{
+	vertical-align: middle;
+}
+body{
+	background-color: #F5F5F5;
+    
+}
+
+
+
+
+
+
+
+.s-1{
+	margin-left: 140px;
+	margin-top: 53px;
+}
+
+.myh2{
+    
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	color: #000000;
+	margin-bottom: 27px;
+	
+}
+
+.container{
+	width: 1180px;
+	margin-bottom: 57px;
+
+}
+
+.card-1{
+	display: inline-block;
+	margin-right: 42px;
+}
+.greybox{
+	width: 362px;
+	height: 171px;
+	background: #FFFFFF;
+	border-radius: 0px 0px 5px 5px;
+}
+
+.mineh6{
+	
+	padding-top: 50px;
+	padding-left: 37px;
+	width: 300px;
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 12px;
+
+	color: #8A8787;
+
+	padding-bottom: 14px;
+
+}
+.clock {
+	display: inline-block;
+	padding-left: 40px;
+	padding-right: 11px;
+	vertical-align: middle;
+}
+.myh6{
+	display: inline-block;
+	vertical-align: middle;
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 11px;
+	line-height: 12px;
+	/* identical to box height */
+
+	color: #8A8787;
+
+}
+
+.card-2{
+	display: inline-block;
+	margin-right: 44px;
+	
+}
+.card-3{
+	display: inline-block;
+}
+
+
+
+.wrapper{
+	display:inline-block ;
+	position: relative;
+	vertical-align: top;
+}
+
+.dearh2{
+	position: absolute;
+	top: 205px;
+	left: 280px;
+	
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+	color: #FFFFFF;
+
+}
+.container2{
+	display: inline-block;
+	margin-bottom: 42px;
+	
+}
+
+.container3{
+	display: inline-block;
+}
+
+.s-2{
+	margin-left: 140px;
+}
+
+
+.img1{
+	vertical-align: top;
+}
+
+
+
+
+
+
+
+
+
+

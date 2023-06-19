@@ -7,7 +7,7 @@ header{
 	top: 0;
 }
 
-nav{
+.headernav{
 	display: inline-block;
 }
 li{
@@ -129,6 +129,8 @@ body{
 	display:inline-block ;
 	position: relative;
 	vertical-align: top;
+
+	
 }
 
 .dearh2{
@@ -148,22 +150,33 @@ body{
 .container2{
 	display: inline-block;
 	margin-bottom: 42px;
+	z-index: 10;
+	
 	
 }
 
 .container3{
+	
 	display: inline-block;
+	z-index: 10;
+	position: absolute;
+	right: 17%;
 }
 
-.s-2{
+/*.s-2{
 	margin-left: 140px;
 }
+*/
 
-
-.img1{
+.pic4{
+	width: 758px;
 	vertical-align: top;
 }
 
+.img1{
+	vertical-align: top;
+
+}
 
 
 
@@ -173,3 +186,89 @@ body{
 
 
 
+
+
+
+.footer{
+    width: 1550px;
+	height: 201px;
+
+	background: #243043;
+	margin-top: 300px;
+	padding-right: 96px;
+}
+
+.footerinfo{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 15px;
+	line-height: 14px;
+	/* identical to box height */
+
+	color: #818687;
+	
+	margin-left: 137px;
+	padding-top: 59px;
+	padding-right: 96px;
+
+}
+footer li {
+    
+	display: block;
+	margin-bottom: 14px;
+
+}
+
+.footerinfo1{
+	display: inline-block;
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 15px;
+	line-height: 14px;
+	/* identical to box height */
+
+	color: #818687;
+	padding-right: 118px;
+
+}
+
+.footerinfo2{
+	display: inline-block;
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 15px;
+	line-height: 14px;
+	/* identical to box height */
+
+	color: #818687;
+	padding-top: 59px;
+	padding-right: 112px;
+	vertical-align: top;
+
+}
+h5{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+	/* identical to box height */
+
+	color: #FFFFFF;
+	padding-top: 59px;
+	vertical-align: top;
+	padding-right: 280px;
+
+}
+
+.logo2{
+	padding-top: 59px;
+	vertical-align: top;
+}

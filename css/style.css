@@ -69,6 +69,31 @@ body{
 	display: inline-block;
 	margin-right: 42px;
 }
+
+
+.wrapper1{
+	display:inline-block ;
+	position: relative;
+}
+
+h3{
+	position: absolute;
+	top: 32px;
+	left: 41px;
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #FFFFFF;
+
+}
+
+
+
+
 .greybox{
 	width: 362px;
 	height: 171px;
@@ -163,11 +188,6 @@ body{
 	right: 17%;
 }
 
-/*.s-2{
-	margin-left: 140px;
-}
-*/
-
 .pic4{
 	width: 758px;
 	vertical-align: top;
@@ -194,7 +214,7 @@ body{
 	height: 201px;
 
 	background: #243043;
-	margin-top: 300px;
+	margin-top: 100px;
 	padding-right: 96px;
 }
 
